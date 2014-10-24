@@ -1,7 +1,7 @@
 {
   "name": "angular-and-classes",
   "description": "Using Javascript Classes within an Angular environment",
-  "repository": "",
+  "repository": "git@github.com:maurocarrero/angular-and-classes.git",
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
